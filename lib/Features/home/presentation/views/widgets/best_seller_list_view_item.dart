@@ -40,7 +40,7 @@ class BestSellerListViewItem extends StatelessWidget {
                   SizedBox(
                     width: MediaQuery.of(context).size.width * .5,
                     child: Text(
-                      'Computer Programming Fundamentals',
+                      'Fundamentals for Absolute Beginners',
                       maxLines: 2,
                       overflow: TextOverflow.ellipsis,
                       style: Styles.textStyle20.copyWith(
